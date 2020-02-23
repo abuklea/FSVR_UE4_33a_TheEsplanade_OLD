@@ -8,10 +8,14 @@
 		{
 			"Name": "HDRIBackdrop",
 			"Enabled": true
+		},
+		{
+			"Name": "OculusAvatar",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
-		"PS4",
-		"Android"
+		"Android",
+		"WindowsNoEditor"
 	]
 }
